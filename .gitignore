@@ -25,3 +25,4 @@ dist-ssr
 
 src/assets/*
 !src/assets/.gitkeep
+!src/assets/chords.yml
