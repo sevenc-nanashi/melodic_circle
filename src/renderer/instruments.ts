@@ -35,7 +35,7 @@ export const draw = import.meta.hmrify((p: p5, state: State) => {
 
 	graphics.textAlign(p.LEFT, p.BOTTOM);
 	graphics.text(
-		"Grime Kick 6,\nUltimate Snare 1 (Odyssey),\nSI-Drum Kit:",
+		"Grime Kick 6,\nUltimate Snare 1 (Cymatics),\nSI-Drum Kit:",
 		p.width * (3 / 4) - shift,
 		p.height * (2 / 3) - 16,
 	);
